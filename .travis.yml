@@ -10,4 +10,4 @@ before_script:
 
 script:
   - make
-  - zip main.zip build/main
+  - zip main.zip main
