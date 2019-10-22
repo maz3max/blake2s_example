@@ -11,3 +11,4 @@ before_script:
 script:
   - make
   - zip main.zip main
+  - ls ${TRAVIS_BUILD_DIR}
